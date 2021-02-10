@@ -1,6 +1,6 @@
 /*
 
-App Name: COVID-19 Latest News
+Template Name: COVID-19 Latest News
 Template Url: https://fate92ma.github.io/COVID-19-Latest-News
 Contact Me: fatema131khaled@gmail.com
 
@@ -29,10 +29,12 @@ body {
 }
 
 ul {
+    padding: 5px;
     display: flex;
     list-style: none;
     justify-content: center;
-    margin-top: 30px
+    margin-top: 30px;
+    flex-wrap: wrap
 }
 
 ul li {
