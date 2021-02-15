@@ -34,7 +34,7 @@ function displayDataInDom(array, whereToDisplay, title) {
 
 }
 
-/////////////////////////////////////////////////////////////////////////////////
+/**************************************************************************************************/
 
 // function to get all coronavirus news in arabic
 function getARData() {
